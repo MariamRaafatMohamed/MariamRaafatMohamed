@@ -1,4 +1,4 @@
-I'm a computer science student with a strong interest in machine learning and artificial intelligence. I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision. <br>🌱 I’m currently learning Data science, Data analytics, Machine learning and computer vision.
+Aspiring data scientist with a passion for AI, machine learning, and impactful storytelling through data. I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision. <br>🌱 I’m currently learning Data science, Data analytics, Machine learning and computer vision.
 
 
 ## 🌐 Socials:
