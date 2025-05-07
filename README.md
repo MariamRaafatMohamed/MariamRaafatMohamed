@@ -9,8 +9,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/mariam-raafatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-raafatt" height="30" width="40" /></a>
 <a href="https://kaggle.com/mariamraafatbrownies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariamraafatbrownies" height="30" width="40" /></a>
-<a href="https://fb.com/mariam.rafat.37604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariam.rafat.37604" height="30" width="40" /></a>
-<a href="https://instagram.com/raafat7661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raafat7661" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/browns." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="browns." height="30" width="40" /></a>
 </p>
 
