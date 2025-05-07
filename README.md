@@ -1,10 +1,12 @@
 # 💫 About Me:
-I'm a computer science student with a strong interest in machine learning and artificial intelligence. I enjoy working with Python and exploring tools like TensorFlow and Scikit-learn. I'm currently learning how to build and deploy ML models, and I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision, and I care about using AI in a responsible and ethical way.<br>🌱 I’m currently learning Data science, Data analytics, Machine learning and computer vision.
+I'm a computer science student with a strong interest in machine learning and artificial intelligence. I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision. <br>🌱 I’m currently learning Data science, Data analytics, Machine learning and computer vision.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam-raafatt) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/mariamraafatbrownies) 
+[![codeforces](https://img.shields.io/badge/codeforces-%230077B5.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/BroWns.) 
+
 
 
 # 💻 Tech Stack:
