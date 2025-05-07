@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm a computer science student with a strong interest in machine learning and artificial intelligence. I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision. <br>🌱 I’m currently learning Data science, Data analytics, Machine learning and computer vision.
 
 
@@ -16,8 +15,6 @@ I'm a computer science student with a strong interest in machine learning and ar
 ![](https://nirzak-streak-stats.vercel.app/?user=MariamRaafatMohamed&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamRaafatMohamed&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MariamRaafatMohamed&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
