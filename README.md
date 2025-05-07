@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariam Raafat</h1>
+<h1 align="center">Hi ♡, I'm Mariam Raafat</h1>
 <h3 align="center">A computer science student with a strong interest in machine learning and artificial intelligence. Skilled in Python, TensorFlow, and Scikit-learn, with hands-on experience in developing and deploying ML models. Eager to leverage data-driven insights and cutting-edge AI techniques to solve real-world problems. Active participant in online courses and competitions, continuously expanding knowledge in deep learning, natural language processing, and computer vision. Committed to ethical AI practices and excited about the future of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamraafatmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mariamraafatmohamed" /> </p>
