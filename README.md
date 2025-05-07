@@ -1,9 +1,7 @@
 <h1 align="center">Hi ♡, I'm Mariam Raafat</h1>
 <h3 align="center">I'm a computer science student with a strong interest in machine learning and artificial intelligence. I enjoy working with Python and exploring tools like TensorFlow and Scikit-learn. I'm currently learning how to build and deploy ML models, and I’m always looking to improve through online courses and practice projects. I’m especially interested in deep learning, NLP, and computer vision, and I care about using AI in a responsible and ethical way.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamraafatmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mariamraafatmohamed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamraafatmohamed" alt="mariamraafatmohamed" /></a> </p>
 
 - 🌱 I’m currently learning **Data science, Data analytics, Machine learning and computer vision**
 
