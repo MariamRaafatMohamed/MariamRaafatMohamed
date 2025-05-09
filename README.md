@@ -23,6 +23,6 @@ Aspiring data scientist with a passion for AI, machine learning, and impactful s
 ![](https://github-contributor-stats.vercel.app/api?username=MariamRaafatMohamed&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MariamRaafatMohamed&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MariamRaafatMohamed&label=Profile%20Views&icon=1&color=3&style=flat-square)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
