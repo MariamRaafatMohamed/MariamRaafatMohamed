@@ -22,7 +22,7 @@ Aspiring data scientist with a passion for AI, machine learning, and impactful s
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MariamRaafatMohamed&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
-### 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=MariamRaafatMohamed)
+
+[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=MariamRaafatMohamed)](https://github.com/MariamRaafatMohamed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
