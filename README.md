@@ -18,10 +18,11 @@ Aspiring data scientist with a passion for AI, machine learning, and impactful s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamRaafatMohamed&theme=shadow_green&hide_border=true&layout=compact)
 
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MariamRaafatMohamed&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ### 
-[![](https://visitcount.itsvg.in/api?id=MariamRaafatMohamed&label=Profile%20Views&icon=1&color=3&style=flat-square)](https://visitcount.itsvg.in)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=MariamRaafatMohamed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
