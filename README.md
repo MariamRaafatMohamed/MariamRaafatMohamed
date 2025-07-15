@@ -5,7 +5,7 @@ Aspiring data scientist with a passion for AI, machine learning, and impactful s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam-raafatt) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/mariamraafatbrownies) 
 [![codeforces](https://img.shields.io/badge/codeforces-%230077B5.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/BroWns.) 
-[![LeetCode](https://img.shields.io/badge/codeforces-%230077B5.svg?logo=codeforces&logoColor=white)](https://leetcode.com/u/MariamRaafat/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/MariamRaafat/)
 
 
 
